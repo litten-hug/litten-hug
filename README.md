@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @litten-hug
 - 👀 I’m interested in gaming
 - 🌱 I’m currently learning japanese
-- 💞️ I’m looking to collaborate on fnf mods
+- 💞️ I’m looking to collaborate on creating video games
 
 <!---
 litten-hug/litten-hug is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
